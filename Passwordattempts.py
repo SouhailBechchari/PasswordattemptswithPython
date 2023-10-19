@@ -1,6 +1,5 @@
 password = "DEV@2023"
 att = 3
-
 while att > 0:
     X = input("Entrez le mot de passe : ")
     if X == password:
@@ -11,5 +10,5 @@ while att > 0:
         if att > 0:
             print("Mot de passe incorrect. Il vous reste", att," tentative(s).")
         else:
-            Y = input("Répondez à la question secrète : Quel est votre film préféré ? ")
+            Y = input("RÃ©pondez Ã  la question secrÃ¨te : Quel est votre film prÃ©fÃ©rÃ© ? ")
             
